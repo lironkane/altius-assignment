@@ -33,7 +33,7 @@ source venv/bin/activate
     Or
     python3 main.py
 
-🚀 Running the Frontend
+## 🚀 Running the Frontend
 
 ### 1. Install dependencies
 
@@ -43,5 +43,5 @@ source venv/bin/activate
 ### 2. Run dev server
     npm run dev
 
-Frontend will be available at:
+### Frontend will be available at:
     http://localhost:5173
