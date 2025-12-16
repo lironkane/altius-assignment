@@ -43,5 +43,5 @@ source venv/bin/activate
 ### 2. Run dev server
     npm run dev
 
-### Frontend will be available at:
+## Frontend will be available at:
     http://localhost:5173
